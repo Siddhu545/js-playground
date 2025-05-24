@@ -5,8 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "SET NODE_OPTIONS=--experimental-vm-modules && jest"
+    "start": "node index.js"
   },
   "dependencies": {
     "body-parser": "^1.20.2",
